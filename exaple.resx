@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- xml comments are not preserved, attribute ordred is not preserved -->
+	<!-- header must be put back [BEGIN HEADER]-->
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <!-- [HEADER END] -->
+    <data name="Name1"><value>The [[quick]] brown fox jumped over the lazy dog.</value><comment>this is a reference</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Don't import</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[Do not import]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[Do not import]</value>
+        <comment>ignore this thing</comment>
+    </data> 
+</root>
