@@ -7,7 +7,7 @@
     <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
     <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
     
-    <data name="Name1"><value>The [[quick]] brown fox PROD TEST jumped over the lazy dog. IVE EDITED SOURCE</value><comment>this is a reference</comment></data>
+    <data name="Name1"><value>Le [[rapide]] renard brun PROD TEST a sauté sur le chien paresseux. IVE EDITED SOURCE</value><comment>this is a reference</comment></data>
     <data type="System.Drawing.Color, System.Drawing" name="Color1">Don't import</data>
     <data mimetype="application/x-microsoft.net.object.binary.base64" name="Bitmap1">
         <value>[Do not import]</value>
